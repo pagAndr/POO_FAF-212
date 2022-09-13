@@ -149,22 +149,22 @@ Files added to git.
 
 ---
 * Making the `makefile` in the directory with the `.c` file.
-![](/home/dreika/CODE/POO/lab0/images/makefile1.png)
+![](images/makefile1.png)
 
 ---
 * Writing the makefile.
-![](/home/dreika/CODE/POO/lab0/images/makefile2.png)
+![](images/makefile2.png)
 
 ---
 * Makefile made
-![](/home/dreika/CODE/POO/lab0/images/makefile3.png)
+![](images/makefile3.png)
 
 ---
 * Running the makefile
-![](/home/dreika/CODE/POO/lab0/images/makefile4.png)
+![](images/makefile4.png)
 
 ---
 * Running the executable
-![](/home/dreika/CODE/POO/lab0/images/makefile5.png)
+![](images/makefile5.png)
 
 ---
